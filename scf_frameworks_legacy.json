@@ -1,0 +1,25 @@
+{
+  "description": "SCF column values that are legacy frameworks",
+  "source": "Legacy SCF spreadsheets",
+  "last_updated": "2026-01-10",
+  "values": {
+    "ISO 27001 v2013",
+    "ISO 27002 v2013",
+    "ISO 27701 v2019",
+    "ISO 29100 v2011",
+    "NIST CSF v1.1",
+    "PCIDSS v3.2",
+    "Shared Assessments SIG 2024",
+    "US DHS CISA CPG",
+    "US Privacy Shield",
+    "US StateRAMP Low Category 1",
+    "US StateRAMP Low+ Category 2",
+    "US StateRAMP Moderate Category 3",
+    "US-CA CCPA / CPRA (Nov 2022)",
+    "US - SC Insurance Data Security Act",
+    "US-TX Cybersecurity Act",
+    "US-VA CDPA 2023",
+    "EMEA EU EU-US Data Privacy Framework",
+    "EMEA UK CAF v3.1",
+  }
+}
