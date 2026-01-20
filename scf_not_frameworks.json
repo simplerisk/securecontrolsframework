@@ -128,6 +128,18 @@
     "PPTDF Applicability FACILITY",
     "PPTDF Applicability PEOPLE",
     "PPTDF Applicability PROCESS",
-    "PPTDF Applicability TECHNOLOGY"
+    "PPTDF Applicability TECHNOLOGY",
+
+    "Possible Solutions & Considerations Micro-Small Business (<10 staff) BLS Firm Size Classes 1-2",
+    "Possible Solutions & Considerations Small Business (10-49 staff) BLS Firm Size Classes 3-4",
+    "Possible Solutions & Considerations Medium Business (50-249 staff) BLS Firm Size Classes 5-6",
+    "Possible Solutions & Considerations Large Business (250-999 staff) BLS Firm Size Classes 7-8",
+    "Possible Solutions & Considerations Enterprise (> 1,000 staff) BLS Firm Size Class 9",
+    "SCF-B Business Mergers & Acquisitions",
+    "SCF-I Cyber Liability Insurance (Duty of Care)",
+    "SCF-E Embedded Technology",
+    "SCF-M MSP/MSSP Secure Practices Baseline",
+    "SCF-R Ransomware Protection",
+    "SCF-Z Zero Trust Architecture (ZTA)"
   ]
 }
